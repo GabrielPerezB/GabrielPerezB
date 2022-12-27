@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Gabriel Perez</h1>
 <h3 align="center">A software developer from Costa Rica</h3>
 
-- 🔭 I’m currently working for [Avantica](avantica.com)
+- 🔭 I’m currently working for [Encora](https://www.encora.com/)
 
-- 🌱 I’m currently learning **Docker**
+- 🌱 I’m currently learning **DevOps**
 
-- 💬 Ask me about **react, express**
+- 💬 Ask me about **React, Express, GraphQl**
 
 - 📫 How to reach me **gabrielapb1996@gmail.com**
 
