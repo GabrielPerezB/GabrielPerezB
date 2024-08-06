@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working for [Web3 Company]()
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **All I can**
 
-- 💬 Ask me about **React, Express, GraphQL**
+- 💬 Ask me about **NextJS, MongoDB, Web3**
 
 - 📫 How to reach me **gabrielapb1996@gmail.com**
 
